@@ -1,4 +1,4 @@
-# squatAnalysis
+# squat-analysis
 Biomechanical analysis of squat correct execution with the use of OpenSim.
 
 Analysis conducted as a part of intermediate engineering project. The principal objective of this work was to 
